@@ -8,6 +8,7 @@ import NavBar from "./components/NavBar";
 import Favourites from "./pages/Favourites";
 import MovieDetails from "./pages/MovieDetails";
 
+
 function App() {
   
   return (
